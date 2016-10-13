@@ -282,3 +282,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+*.sh
+gravgl
